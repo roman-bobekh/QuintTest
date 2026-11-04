@@ -10,7 +10,7 @@ To install a released version of QuintTest, download the latest QuintTest releas
 To install QuintTest from the source, clone the repository and install the requirements with pip. Make sure git, Python and pip are installed on your machine. Feel free to use venv to contain the installed libraries inside the project.
 
 ```
-git clone https://github.com/Quintium/QuintTest
+git clone https://github.com/roman-bobekh/QuintTest
 cd QuintTest
 pip install -r requirements.txt
 ```
